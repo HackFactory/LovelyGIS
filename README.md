@@ -16,7 +16,10 @@
 Мы переосмыслили то, как нужно рассказывать о предстоящих мероприятиях. Все любят **мемы**, но мало кто слышал о предстоящих выставках. Так почему бы не совместить приятное с полезным? :)
 
 ![](pictures/meme_biblio.jpeg)
-![](pictures/tweet_meme.png)
+
+Рассказывать друг другу о новых культурных событиях теперь стало просто и интересно.
+
+![](pictures/tweet_meme.png =400x)
 
 Мы продумали пользовательский интерфейс до самых мелочей.
 
@@ -32,9 +35,9 @@
 
 ![](pictures/team_photo.jpg)
 
-[VK хакатона](https://vk.com/album-155634075_250162776)
-[Facebook хакатона](https://www.facebook.com/media/set/?set=a.888874914612848&type=3)
-[Instagram хакатона](https://www.instagram.com/p/BdDFAkGDHps/?tagged=lovelygis)
+[VK хакатона](https://vk.com/album-155634075_250162776)  
+[Facebook хакатона](https://www.facebook.com/media/set/?set=a.888874914612848&type=3)  
+[Instagram хакатона](https://www.instagram.com/p/BdDFAkGDHps/?tagged=lovelygis)  
 
 ## Участники
 

@@ -21,11 +21,15 @@
 
 Рассказывать друг другу о новых культурных событиях теперь стало просто и интересно.
 
+<p align=center>
 <img src="pictures/tweet_meme.png" width=400>
+</p>
 
 Мы продумали пользовательский интерфейс до самых мелочей.
 
+<p align=center>
 <img src="https://preview.ibb.co/dfd4jm/menu.jpg" width="280"> <img src="https://image.ibb.co/j5WqPm/map.jpg" width="280"> <img src="https://preview.ibb.co/jpPic6/recommend.jpg" width="280">
+</p>
 
 Одной из ключевых фич стала крайне интуитивная система подбора мероприятий, учитывающая ряд особенных признаков. Например, **хайповость** культурного события.
 
